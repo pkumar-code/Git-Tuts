@@ -1,0 +1,8 @@
+1. git status
+2.git add <File Name>
+3. git commit -m "Message"
+4.git remote add origin <repo path>
+5.git push -u origin <branch Name>
+6. git switch <branch Name>
+7.git clone <path> --copy repository  to local storage 
+
